@@ -1,0 +1,34 @@
+// sm: 576px
+@mixin ws-sm {
+  @media all and (min-width: 576px) {
+    @content;
+  }
+}
+
+// md: 768px
+@mixin ws-md {
+  @media all and (min-width: 768px) {
+    @content;
+  }
+}
+
+// lg: 992px
+@mixin ws-lg {
+  @media all and (min-width: 992px) {
+    @content;
+  }
+}
+
+// xl: 1200px
+@mixin ws-xl {
+  @media all and (min-width: 1200px) {
+    @content;
+  }
+}
+
+// xxl: 1400px
+@mixin ws-xxl {
+  @media all and (min-width: 1400px) {
+    @content;
+  }
+}

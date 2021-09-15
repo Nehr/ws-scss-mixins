@@ -1,11 +1,7 @@
 {
   "name": "@downehr/ws-scss-mixins",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "My useful scss mixins.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nehr/ws-scss-mixins.git"
@@ -15,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/Nehr/ws-scss-mixins/issues"
   },
-  "homepage": "https://github.com/Nehr/ws-scss-mixins#readme"
+  "homepage": "https://github.com/Nehr/ws-scss-mixins#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
 }
