@@ -7,7 +7,7 @@ Hello! I have no idea how you found this, but you're more than welcome to use th
 To use the mixins import the **main.scss**-file in your project like this:
 
 ```javascript
-@import "~ws-scss-mixins/main.scss";
+@import "~@downehr/ws-scss-mixins/main.scss";
 // or you may have to import it like this
 @import "node_modules/ws-scss-mixins/main.scss";
 ```
