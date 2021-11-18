@@ -9,7 +9,7 @@ To use the mixins import the **main.scss**-file in your project like this:
 ```javascript
 @import "~@downehr/ws-scss-mixins/main.scss";
 // or you may have to import it like this
-@import "node_modules/ws-scss-mixins/main.scss";
+@import "node_modules/@downehr/ws-scss-mixins/main.scss";
 ```
 
 ## Breakpoints (screen size media queries)
